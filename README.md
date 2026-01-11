@@ -1,1 +1,1 @@
-These are datasets from various sources curated by us using out AI and infrastructure.
+These are datasets from various sources curated by us using our AI and infrastructure.
